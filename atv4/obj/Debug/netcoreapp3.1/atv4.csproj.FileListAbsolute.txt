@@ -1,0 +1,13 @@
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\bin\Debug\netcoreapp3.1\atv4.exe
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\bin\Debug\netcoreapp3.1\atv4.deps.json
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\bin\Debug\netcoreapp3.1\atv4.runtimeconfig.json
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\bin\Debug\netcoreapp3.1\atv4.runtimeconfig.dev.json
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\bin\Debug\netcoreapp3.1\atv4.dll
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\bin\Debug\netcoreapp3.1\atv4.pdb
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\obj\Debug\netcoreapp3.1\atv4.csprojAssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\obj\Debug\netcoreapp3.1\atv4.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\obj\Debug\netcoreapp3.1\atv4.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\obj\Debug\netcoreapp3.1\atv4.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\obj\Debug\netcoreapp3.1\atv4.dll
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\obj\Debug\netcoreapp3.1\atv4.pdb
+C:\projetos\ams\1ano\semestre2\whilecommand\atv4\obj\Debug\netcoreapp3.1\atv4.genruntimeconfig.cache
